@@ -8,7 +8,8 @@ author_profile: true
 * IMWUT 2023
 * SIGKDD 2023
 * IMWUT 2022
-* IEEE/ACM Transactions on Networking 2022
+* IEEE TOSN
+* IEEE/ACM Transactions on Networking
 * ICPADS 2021 
 * Computer Communications
 
