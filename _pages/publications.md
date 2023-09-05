@@ -1,5 +1,5 @@
 ---
-title: "Selected Conference Publication"
+title: "Selected Publication"
 layout: single
 classes: wide
 permalink: /publications/
@@ -50,5 +50,8 @@ Yi Ding, **Baoshen Guo**, Lin Zheng, Mingming Lu, Desheng Zhang, Shuai Wang, San
 <span style="color:Forestgreen;font-weight:bold">[Ubicomp-Iswc'20]</span> *SParking: a win-win data-driven contract parking sharing system* <br>
 Xin Zhu, Shuai Wang, **Baoshen Guo**, Taiwei Ling, Ziyi Zhou, Lai Tu, Tian He<br>
 
+--- 
+### Selected Journal Publication
 
-
+<span style="color:Forestgreen;font-weight:bold">[IEEE-TBD]</span> *Cross-Region Courier Displacement for On-Demand Delivery With Multi-Agent Reinforcement Learning* <br>
+Shuai Wang, Shijie Hu, **Baoshen Guo**, Guang Wang<br>
