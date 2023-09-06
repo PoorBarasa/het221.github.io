@@ -44,7 +44,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
-* Jul. 2023: One papers accepted by ICA3PP.
+* Jul. 2023: One paper accepted by ICA3PP.
 * May. 2023: Two papers accepted by ACM SIGKDD'23.
 * Mar. 2023: Co-authored paper accepted by IEEE Transactions on Big Data.
 * Aug. 2022: Co-authored paper accepted by ACM SIGSPATIAL 2022.
