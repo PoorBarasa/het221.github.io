@@ -51,7 +51,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Aug. 2022: Co-authored paper accepted by ACM CIKM 2022.
 * May. 2022: 1 paper accepted by ACM SIGKDD'22.
 * Apr. 2022: 1st-author paper **WePos** accepted by ACM IMWUT (UbiComp'22).
-* Nov. 2021: 1st-author paper won outstanding paper award at IEEE RTSS'21.
+* Nov. 2021: 1st-author paper won <span style="background-color:grey;color:White">(Outstanding Paper Award)<span> at IEEE RTSS'21.
 * Oct. 2021: 2st-author paper **CSMC** accepted by ACM IMWUT (UbiComp'21).
 * Oct. 2021: Another paper **O2-SiteRec** about  on-demand gig delivery is accepted by ICDE'22.
 * Aug. 2021: 1st-author paper **TCAC** accepted by IEEE RTSS'21.
