@@ -40,9 +40,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
   involving 3 million smartphones in 367 cities for 20 months.
 
 
-### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
-|           |                                                                                                                                            |
+|           | <span style="color:DarkRed;font-weight:bold">Recent News</span>                                                                            |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Jul. 2023 | One paper accepted by ICA3PP <span style="background-color: grey; color: white;">(Best Student Paper Award)</span>.                        |
 | May. 2023 | Two papers accepted by ACM SIGKDD'23.                                                                                                      |
