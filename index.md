@@ -43,6 +43,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct. 2023                                                       | Distinguish Paper Award (**WePos**) by the IoT Committee of Chinese Institute of Electronics.                                              |
 | Jul. 2023                                                       | One paper accepted by ICA3PP <span style="background-color: grey; color: white;">(Best Student Paper Award)</span>.                        |
 | May. 2023                                                       | Two papers accepted by ACM SIGKDD'23.                                                                                                      |
 | Mar. 2023                                                       | Co-authored paper accepted by IEEE Transactions on Big Data.                                                                               |
