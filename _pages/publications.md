@@ -5,7 +5,8 @@ classes: wide
 permalink: /publications/
 author_profile: true
 ---
-### 2023 
+### 2023
+> * Coressponding author; + Co-first authors,
 
 <span style="color:green;font-weight:bold">[KDD'23]</span> *Towards Equitable Assignment: Data-Driven Delivery Zone Partition at Last-mile Logistics* <br>
 **Baoshen Guo**, Shuai Wang, Haotian Wang, Yunhuai Liu, Fanshuo Kong, Desheng Zhang, Tian He<br> 
@@ -54,4 +55,7 @@ Xin Zhu, Shuai Wang, **Baoshen Guo**, Taiwei Ling, Ziyi Zhou, Lai Tu, Tian He<br
 ### Selected Journal Publication
 
 <span style="color:Forestgreen;font-weight:bold">[IEEE-TBD]</span> *Cross-Region Courier Displacement for On-Demand Delivery With Multi-Agent Reinforcement Learning* <br>
-Shuai Wang, Shijie Hu, **Baoshen Guo**, Guang Wang<br>
+Shuai Wang, Shijie Hu, **Baoshen Guo***, Guang Wang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[IEEE-TMC]</span> *Time-Constrained Actor-Critic Reinforcement Learning for Concurrent Order Dispatch in On-demand Delivery* <br>
+Shuai Wang+, **Baoshen Guo***+, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He<br>
