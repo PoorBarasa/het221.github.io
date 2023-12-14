@@ -30,11 +30,11 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
 > **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present**
- * Design the **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
- * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase services** to increase adoption rate by modeling human interaction patterns. 
+ * Design **delivery zone repartition** system to optimize pickup and delivery process in JD logistics. 
+ * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase** to increase adoption rate and fulfillment efficiency. 
 
 > **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
-  * Designed algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
+  * Design merchant-level indoor positioning system leveraging massive unlabeled
   Wi-Fi data.
   * Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
   involving 3 million smartphones in 367 cities for 20 months.
