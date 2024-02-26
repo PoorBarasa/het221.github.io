@@ -14,6 +14,9 @@ author_profile: true
 <span style="color:green;font-weight:bold">[KDD'23]</span> *FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services* <br>
 Lin Jiang, Shuai Wang, **Baoshen Guo**, Hai Wang, Desheng Zhang, Guang Wang<br>
 
+<span style="color:green;font-weight:bold">[ICA3PP'23]</span> *Attention Enhanced Package Pick-up Time Prediction via Heterogeneous Behavior Modeling* <br>
+**Baoshen Guo**, Weijian Zuo, Shuai Wang, Xiaolei Zhou, Tian He<br>
+
 ### 2022
 <span style="color:gray;font-weight:bold">[SIGSPATIAL'22]</span> *CoMiner: Nationwide Behavior-driven Unsupervised Spatial Coordinate Mining from Uncertain Delivery Events* <br>
 Zhiqing Hong, Guang Wang, Wenjun Lyu, **Baoshen Guo**, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, Desheng Zhang<br>
@@ -59,3 +62,6 @@ Shuai Wang, Shijie Hu, **Baoshen Guo***, Guang Wang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[IEEE-TMC]</span> *Time-Constrained Actor-Critic Reinforcement Learning for Concurrent Order Dispatch in On-demand Delivery* <br>
 Shuai Wang+, **Baoshen Guo***+, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He<br>
+
+<span style="color:Forestgreen;font-weight:bold">[ACM-TOSN]</span> *Multi-sensor Data-driven Route Prediction in Instant Delivery with a 3-Conversion Network* <br>
+Zhiyuan Zhou, Xiaolei Zhou, **Baoshen Guo**, Shuai Wang, Tian He<br>

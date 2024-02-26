@@ -43,6 +43,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Jan. 2024                                                       | One paper accepted by IEEE Transactions on Sensor Networks.                                                                                |
 | Dec. 2023                                                       | One paper accepted by IEEE Transactions on Mobile Computing.                                                                               |
 | Oct. 2023                                                       | Distinguish Paper Award (**WePos**) by the IoT Committee of Chinese Institute of Electronics.                                              |
 | Jul. 2023                                                       | One paper accepted by ICA3PP <span style="background-color: grey; color: white;">(Best Student Paper Award)</span>.                        |
