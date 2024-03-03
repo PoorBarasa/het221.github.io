@@ -15,6 +15,7 @@ author_profile: true
 * [Latex symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
 * [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
+* [formula-generator](http://formula-generator.com/)
 
 ### Data-sets
 
