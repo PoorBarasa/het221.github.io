@@ -17,6 +17,10 @@ author_profile: true
 * [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
 * [formula-generator](http://formula-generator.com/)
 
+### Enlightening blogs
+* [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
+
+
 ### Data-sets
 
 * [On-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
