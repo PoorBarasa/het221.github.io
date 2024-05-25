@@ -56,17 +56,17 @@ plugins:
 author:
   name   : "Hua Yan"
   avatar : "/assets/images/hua.jpg"
-  bio    : "Ph.D. Candidate, Southeast University. Graduate Research Trainee, McGill University"
+  bio    : "Ph.D. Student, Lehigh University."
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
 footer:
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
