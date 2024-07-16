@@ -5,11 +5,13 @@ classes: wide
 permalink: /publications/
 author_profile: true
 ---
-### 2023
+### 2024
 > * Coressponding author; + Co-first authors,
 
-<span style="color:green;font-weight:bold">[KDD'23]</span> *Towards Equitable Assignment: Data-Driven Delivery Zone Partition at Last-mile Logistics* <br>
-**Baoshen Guo**, Shuai Wang, Haotian Wang, Yunhuai Liu, Fanshuo Kong, Desheng Zhang, Tian He<br> 
+<span style="color:green;font-weight:bold">[WWW'24]</span> *Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery* <br>
+**Hua Yan**, Heng Tan, Haotian Wang, Desheng Zhang, Yu Yang<br> 
+<span style="color:green;font-weight:bold">[ICRA'24]</span> *Human Preference-aware Rebalancing and Charging for Shared Electric Micromobility Vehicles* <br>
+Heng Tan, Yukun Yuan, **Hua Yan**, Shuxin Zhong, Yu Yang<br> 
 
 
 ### 2022
