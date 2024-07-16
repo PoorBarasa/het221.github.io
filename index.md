@@ -28,8 +28,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
 > **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present**
- * Design **delivery zone repartition** system to optimize pickup and delivery process in JD logistics. 
- * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase** to increase adoption rate and fulfillment efficiency. 
+ * Design **audience expansion** model for logistics systems via a temporal knowledge graph named LOGAE-TKG and deploy it in JD e-commerce platforms.
+ * Design a **courier route planning framework** for last-mile delivery that incorporates conformal prediction into reinforcement learning on JD logistics platforms. 
 
 > **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
   * Design a framework based on matrix factorization, which realizes fast queries and saves storage space to meet the requirement of the on-demand delivery in rush hours.
