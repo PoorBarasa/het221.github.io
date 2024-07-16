@@ -32,10 +32,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
  * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase** to increase adoption rate and fulfillment efficiency. 
 
 > **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
-  * Design merchant-level indoor positioning system leveraging massive unlabeled
-  Wi-Fi data.
-  * Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
-  involving 3 million smartphones in 367 cities for 20 months.
+  * Design a framework based on matrix factorization, which realizes fast queries and saves storage space to meet the requirement of the on-demand delivery in rush hours.
+  * Worked in a team to design, deploy, and evaluate a nationwide fast Origin-Destination distance query system.
 
 
 
