@@ -44,6 +44,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | May. 2024                                                       | Attend WWW'24 in Singapore. 
 | Jan. 2024                                                       | Co-authored paper accepted by IEEE ICRA'24.          
 | Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.
+| Nov. 2023                                                       | Outstanding Master's Thesis Award by Jiangsu Computer Society
 | Oct. 2023                                                       | Attend CIKM'22 in Birmingham, UK.
 | Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
 | Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
