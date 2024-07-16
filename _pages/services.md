@@ -19,4 +19,4 @@ author_profile: true
 
 
 ### Teaching Experience	
-Teaching Assistant, Rennes Graduate school of Southeast University: Database Principles, Fall 2019. 
+Teaching Assistant, Lehigh University: Foundations of Discrete Structures & Algorithms, Fall 2023. 
