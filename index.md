@@ -41,7 +41,10 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Jan. 2024                                                       | One paper accepted by IEEE Transactions on Sensor Networks.                                                                                |
+| May. 2024                                                       | Attend WWWW 2024 in Singapore. 
+| Jan. 2024                                                       | Co-authored paper accepted by IEEE ICRA'24.          
+| Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.       
+|
 | Dec. 2023                                                       | One paper accepted by IEEE Transactions on Mobile Computing.                                                                               |
                                                                               |
 | Jul. 2020                                                       | Started internship at Lab of Alibaba Local Services Company (Eleme).                                                                       |
