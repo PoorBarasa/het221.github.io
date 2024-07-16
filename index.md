@@ -51,6 +51,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | Aug. 2022                                                       | Start to pursue for my Ph.D. degree at Lehigh University.  
 | Jun. 2022                                                       | Started internship at JD Logistics AI and Data Science hosted by Prof. Tian He.
 | May. 2022                                                       | Successfully defend my Master thesis.
+| Oct. 2021                                                       | First-author paper accepted by IEEE ICDE'22.
+| Jul. 2021                                                       | Co-authored paper accepted by IEEE MSN'21.
 | Jul. 2020                                                       | Started internship at Lab of Alibaba Local Services Company (Eleme).                                                                       |
 
 
