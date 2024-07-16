@@ -41,12 +41,16 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| May. 2024                                                       | Attend WWWW 2024 in Singapore. 
+| May. 2024                                                       | Attend WWW'24 in Singapore. 
 | Jan. 2024                                                       | Co-authored paper accepted by IEEE ICRA'24.          
-| Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.       
-|
-| Dec. 2023                                                       | One paper accepted by IEEE Transactions on Mobile Computing.                                                                               |
-                                                                              |
+| Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.
+| Oct. 2023                                                       | Attend CIKM'22 in Birmingham, UK.
+| Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
+| Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
+| Aug. 2022                                                       | Lehigh Presidential Fellowship by Lehigh University.  
+| Aug. 2022                                                       | Start to pursue for my Ph.D. degree at Lehigh University.  
+| Jun. 2022                                                       | Started internship at JD Logistics AI and Data Science hosted by Prof. Tian He.
+| May. 2022                                                       | Successfully defend my Master thesis.
 | Jul. 2020                                                       | Started internship at Lab of Alibaba Local Services Company (Eleme).                                                                       |
 
 
