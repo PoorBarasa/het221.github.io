@@ -27,7 +27,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 [//]: # (**Working Experiences** )
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
-> **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present**
+> **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       June. 2022 - Present**
  * Design **audience expansion** model for logistics systems via a temporal knowledge graph named LOGAE-TKG and deploy it in JD e-commerce platforms.
  * Design a **courier route planning framework** for last-mile delivery that incorporates conformal prediction into reinforcement learning on JD logistics platforms. 
 
