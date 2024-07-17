@@ -21,7 +21,7 @@ author_profile: true
 
 I am a 2th-year Ph.D. student at Lehigh University, under supervision of Prof. [Yu Yang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN). I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
 
-My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at huy222 AT lehigh DOT edu.
+My research interests are broadly in the areas of xxxxxxxxxxxxxxxxxxxxxxxxxxxx in **Smart Logistics**.<br>You can contact me at huy222 AT lehigh DOT edu.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ). 
 
 [//]: # (**Working Experiences** )
@@ -43,7 +43,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | Jan. 2024                                                       | Co-authored paper accepted by IEEE ICRA'24.          
 | Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.
 | Nov. 2023                                                       | Outstanding Master's Thesis Award by Jiangsu Computer Society
-| Oct. 2023                                                       | Attend CIKM'22 in Birmingham, UK.
+| Oct. 2023                                                       | Attend CIKM'23 in Birmingham, UK.
 | Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
 | Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
 | Aug. 2022                                                       | Lehigh Presidential Fellowship by Lehigh University.  
