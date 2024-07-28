@@ -22,6 +22,6 @@ author_profile: true
 
 
 ### Data-sets
-
-* [On-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
+* [E-scooter usage data in Chicago](https://data.cityofchicago.org/Transportation/E-Scooter-Trips/2i5w-ykuw/about_data)
+* [On-demand delivery order distribution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
 * [Beacons, couriers' reports and trajectories](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)
