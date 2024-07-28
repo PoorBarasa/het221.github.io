@@ -28,7 +28,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
 > **Research Assistant, Computer Science & Engineering, Lehigh University    &nbsp;&nbsp;&nbsp;       Aug. 2022 - Present**
- * Design **Human behavior-aware** rebalancing and charging models for electric micromobility vehicles.
+ * Design **human behavior-aware models** for rebalancing and charging electric micromobility vehicles.
  * Design a **LLM-based framework** to enhance the exploration of multi-agent reinforcement learning. 
 
 > **Research intern, Chinese Academy of Medical Sciences    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Apr. 2021**
