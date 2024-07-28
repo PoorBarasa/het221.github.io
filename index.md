@@ -19,40 +19,39 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a 2th-year Ph.D. student at Lehigh University, under supervision of Prof. [Yu Yang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN). I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
+I am a 3th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN).
 
-My research interests are broadly in the areas of xxxxxxxxxxxxxxxxxxxxxxxxxxxx in **Smart Logistics**.<br>You can contact me at huy222 AT lehigh DOT edu.
-My publications can also be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ). 
+My research interests are broadly in the areas of Cyber-Physical Systems, human-centered computing, and learning-based decision-making in **Smart City**.<br>You can contact me at het221@lehigh.edu.
+My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao). 
 
 [//]: # (**Working Experiences** )
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
-> **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       June. 2022 - Present**
- * Design **audience expansion** model for logistics systems via a temporal knowledge graph named LOGAE-TKG and deploy it in JD e-commerce platforms.
- * Design a **courier route planning framework** for last-mile delivery that incorporates conformal prediction into reinforcement learning on JD logistics platforms. 
+> **Research Assistant, Computer Science & Engineering, Lehigh University    &nbsp;&nbsp;&nbsp;       Aug. 2022 - Present**
+ * Design **Human behavior-aware** rebalancing and charging models for electric micromobility vehicles.
+ * Design a **LLM-based framework** to enhance the exploration of multi-agent reinforcement learning. 
 
-> **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
-  * Design a framework based on matrix factorization, which realizes fast queries and saves storage space to meet the requirement of the on-demand delivery in rush hours.
-  * Worked in a team to design, deploy, and evaluate a nationwide fast Origin-Destination distance query system.
+> **Research intern, Chinese Academy of Medical Sciences    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Apr. 2021**
+  * Design a framework for identifying and segmenting three subtypes of Rosacea.
+  * Design a framework for detecting and segmenting human facial wrinkles.
 
 
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| May. 2024                                                       | Attend WWW'24 in Singapore. 
-| Jan. 2024                                                       | Co-authored paper accepted by IEEE ICRA'24.          
-| Jan. 2024                                                       | First-author paper accepted by ACM WWW'24.
-| Nov. 2023                                                       | Outstanding Master's Thesis Award by Jiangsu Computer Society
+| May. 2024                                                       | Attend ICRA'24 in Japan. 
+| Jan. 2024                                                       | Co-authored paper accepted by IEEE WWW'24.          
+| Jan. 2024                                                       | First-author paper accepted by ACM ICRA'24.
+| Oct. 2023                                                       | Won Best Paper Award of CIKM'23
 | Oct. 2023                                                       | Attend CIKM'23 in Birmingham, UK.
-| Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
-| Jul. 2023                                                       | First-author paper accepted by ACM CIKM'23.
-| Aug. 2022                                                       | Lehigh Presidential Fellowship by Lehigh University.  
-| Aug. 2022                                                       | Start to pursue for my Ph.D. degree at Lehigh University.  
-| Jun. 2022                                                       | Started internship at JD Logistics AI and Data Science hosted by Prof. Tian He.
-| May. 2022                                                       | Successfully defend my Master thesis.
-| Oct. 2021                                                       | First-author paper accepted by IEEE ICDE'22.
-| Jul. 2021                                                       | Co-authored paper accepted by IEEE MSN'21.
-| Jul. 2020                                                       | Started internship at Lab of Alibaba Local Services Company (Eleme).                                                                       |
+| Aug. 2023                                                       | First-author paper accepted by ACM CIKM'23.
+| Aug. 2023                                                       | Start to pursue my Ph.D. degree at Lehigh University.
+| May. 2023                                                       | Attend ICCPS'23 in Texas, USA
+| Aug. 2023                                                       | Successfully got my Master's degree at Lehigh University.
+| Mar. 2023                                                       | A poster paper accepted by ICCPS'23
+| Aug. 2021                                                       | Start to pursue my Master's degree at Lehigh University.
+| May. 2021                                                       | Successfully defended my Bachelor thesis.
+| Jul. 2020                                                       | Started internship at Chinese Academy of Medical Sciences.                                                                       |
 
 
  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=253&t=m&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
