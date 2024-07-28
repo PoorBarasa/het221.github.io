@@ -19,7 +19,7 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a 3th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN).
+I am a 3th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://www.yyang.site/).
 
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making** in **Smart City**.<br>You can contact me at het221@lehigh.edu.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao). 
