@@ -21,7 +21,7 @@ author_profile: true
 
 I am a 3th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN).
 
-My research interests are broadly in the areas of Cyber-Physical Systems, human-centered computing, and learning-based decision-making in **Smart City**.<br>You can contact me at het221@lehigh.edu.
+My research interests are broadly in the areas of **Cyber-Physical Systems**, **human-centered computing**, and **learning-based decision-making** in **Smart City**.<br>You can contact me at het221@lehigh.edu.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao). 
 
 [//]: # (**Working Experiences** )
@@ -54,4 +54,4 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | Jul. 2020                                                       | Started internship at Chinese Academy of Medical Sciences.                                                                       |
 
 
- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=253&t=m&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
+ <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sSw9zlUEYrr2XxbD3AGqgojKXwSi652BIxlV_LIy17Q&cl=ffffff&w=a"></script>
