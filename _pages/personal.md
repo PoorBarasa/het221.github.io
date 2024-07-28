@@ -10,8 +10,8 @@ classes: wide
 <p style="text-align:left;">Ph.D. in Computer Science and Engineering <span style="float:right;">Sept. 2022 - Present</span></p>
 
 <p style="text-align:left;">Lehigh University (SEU)<span style="float:right;">Nanjing, China</span></p>
-<p style="text-align:left;">M.E. in Computer Engineering <span style="float:right;">Sept. 2021 - May. 2023</span></p>
+<p style="text-align:left;">M.E. in Computer Science and Engineering <span style="float:right;">Sept. 2021 - May. 2023</span></p>
 
 <p style="text-align:left;">Southeast University (SEU)<span style="float:right;">Nanjing, China</span></p>
-<p style="text-align:left;">B.E. in Eletrical Engineering <span style="float:right;">Sept. 2017 - June 2021</span></p>
+<p style="text-align:left;">B.E. in Automation <span style="float:right;">Sept. 2017 - June 2021</span></p>
 
