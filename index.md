@@ -40,8 +40,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | May. 2024                                                       | Attend ICRA'24 in Japan. 
-| Jan. 2024                                                       | Co-authored paper accepted by IEEE WWW'24.          
-| Jan. 2024                                                       | First-author paper accepted by ACM ICRA'24.
+| Jan. 2024                                                       | Co-authored paper accepted by ACM WWW'24.          
+| Jan. 2024                                                       | First-author paper accepted by IEEE ICRA'24.
 | Oct. 2023                                                       | Won **Best Paper Award** of CIKM'23
 | Oct. 2023                                                       | Attend CIKM'23 in Birmingham, UK.
 | Aug. 2023                                                       | First-author paper accepted by ACM CIKM'23.
