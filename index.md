@@ -45,10 +45,10 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | Oct. 2023                                                       | Won Best Paper Award of CIKM'23
 | Oct. 2023                                                       | Attend CIKM'23 in Birmingham, UK.
 | Aug. 2023                                                       | First-author paper accepted by ACM CIKM'23.
-| Aug. 2023                                                       | Start to pursue my Ph.D. degree at Lehigh University.
-| May. 2023                                                       | Attend ICCPS'23 in Texas, USA
 | Aug. 2023                                                       | Successfully got my Master's degree at Lehigh University.
+| May. 2023                                                       | Attend ICCPS'23 in Texas, USA
 | Mar. 2023                                                       | A poster paper accepted by ICCPS'23
+| Aug. 2022                                                       | Start to pursue my Ph.D. degree at Lehigh University.
 | Aug. 2021                                                       | Start to pursue my Master's degree at Lehigh University.
 | May. 2021                                                       | Successfully defended my Bachelor thesis.
 | Jul. 2020                                                       | Started internship at Chinese Academy of Medical Sciences.                                                                       |
