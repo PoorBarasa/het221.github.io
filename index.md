@@ -42,7 +42,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | May. 2024                                                       | Attend ICRA'24 in Japan. 
 | Jan. 2024                                                       | Co-authored paper accepted by IEEE WWW'24.          
 | Jan. 2024                                                       | First-author paper accepted by ACM ICRA'24.
-| Oct. 2023                                                       | Won Best Paper Award of CIKM'23
+| Oct. 2023                                                       | Won **Best Paper Award** of CIKM'23
 | Oct. 2023                                                       | Attend CIKM'23 in Birmingham, UK.
 | Aug. 2023                                                       | First-author paper accepted by ACM CIKM'23.
 | Aug. 2023                                                       | Successfully got my Master's degree at Lehigh University.
