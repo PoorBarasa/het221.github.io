@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hua Yan
-description: "Hua Yan"
-name: Hua Yan
+title: Heng Tabn
+description: "Heng Tan"
+name: Heng Tan
 logo: "/assets/images/32905629.ico"
 minimal_mistakes_skin: contrast
 search: true
@@ -54,22 +54,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hua Yan"
-  avatar : "/assets/images/hua.jpg"
+  name   : "Heng Tan"
+  avatar : "/assets/images/HengTan.jpg"
   bio    : "Ph.D. Student, Lehigh University."
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ"
+      url: "https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
+      url: "https://www.linkedin.com/in/heng-tan-9056b4235/"
 footer:
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=K-OCWVMAAAAJ"
+      url: "https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
+      url: "https://www.linkedin.com/in/heng-tan-9056b4235/"
 
 defaults:
   # _posts
