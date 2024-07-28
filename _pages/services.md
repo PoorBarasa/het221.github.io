@@ -5,18 +5,17 @@ author_profile: true
 ---
 ### Reviewer
 
+* SIGKDD 2024
 * WWW 2024
-* SIGKDD 2023
 
 ### Awards
 
 
-* Lehigh Presidential Fellowship, 2022
-* Outstanding Thesis Award, Jiangsu Province, 2024
-* NSP Travel Grant, 2024 
+* Best Paper Award of CIKM'23, 2023
 * CIKM Travel Grant, 2023
-* Scholarship, Southeast University, 2019
+* Honorable Mention of 2020 Mathematical Contest In Modeling, 2020
+* 2019-2020 Southeast University "8091" Alumni Scholarship, 2020
 
 
 ### Teaching Experience	
-Teaching Assistant, Lehigh University: Foundations of Discrete Structures & Algorithms, Fall 2023. 
+Teaching Assistant, Lehigh University: System Software, Spring/Fall 2022. 
