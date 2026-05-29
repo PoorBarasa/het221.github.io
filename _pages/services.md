@@ -7,7 +7,7 @@ author_profile: true
 
 >Program Committee Memberships
 
-*ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2025
+* ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2025
 
 >Peer Reviewers
 
