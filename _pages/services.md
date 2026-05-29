@@ -5,8 +5,9 @@ author_profile: true
 ---
 ### Reviewer
 
-* SIGKDD 2024
-* WWW 2024
+* IEEE International Conference on Robotics & Automation (ICRA), 2024 - 2026.
+* ACM Conference on Human Factors in Computing Systems (CHI), 2026
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
 
 ### Awards
 
