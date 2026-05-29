@@ -19,7 +19,7 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a 3th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://www.yyang.site/).
+I am a 4th-year Ph.D. student at Lehigh University, under the supervision of Prof. [Yu Yang](https://www.yyang.site/).
 
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making** in **Smart City**.<br>You can contact me at het221@lehigh.edu.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=gRaTY3UAAAAJ&hl=en&oi=ao). 
@@ -28,8 +28,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:green;font-weight:bold">Working Experiences</span>
 
 > **Research Assistant, Computer Science & Engineering, Lehigh University    &nbsp;&nbsp;&nbsp;       Aug. 2022 - Present**
- * Design **human behavior-aware models** for rebalancing and charging electric micromobility vehicles.
- * Design a **LLM-based framework** to enhance the exploration of multi-agent reinforcement learning. 
+ * Design **human factor-aware models** for decision-making in Cyber-Physical Systems.
+ * Design **LLM-augmented frameworks** to enhance or extend the ability of decision-making systems. 
 
 > **Research intern, Chinese Academy of Medical Sciences    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Apr. 2021**
   * Design a framework for identifying and segmenting three subtypes of Rosacea.
@@ -39,6 +39,15 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 | <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Feb. 2026                                                       | Pass my PhD General Exam. 
+| Feb. 2026                                                       | First-author paper accepted by IEEE ICRA'26.
+| Sept. 2025                                                      | Co-authored paper accepted by IMWUT'26. 
+| Sept. 2025                                                      | Attend BuildSys'25 in Colorado. 
+| Sept. 2025                                                      | Attend SIGSPATIAL'25 in Minneaplis. 
+| Oct. 2025                                                       | Co-authored paper accepted by IEEE UGHS@ICDM'25. 
+| Oct. 2025                                                       | First-author paper accepted by ACM BuildSys'25
+| Aug. 2025                                                       | First-author paper accepted by ACM SIGSPATIAL'25
+| Sept. 2024                                                      | Pass my PhD Qualifier Exam. 
 | May. 2024                                                       | Attend ICRA'24 in Japan. 
 | Jan. 2024                                                       | Co-authored paper accepted by ACM WWW'24.          
 | Jan. 2024                                                       | First-author paper accepted by IEEE ICRA'24.
@@ -50,7 +59,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 | Mar. 2023                                                       | A poster paper accepted by ICCPS'23
 | Aug. 2022                                                       | Start to pursue my Ph.D. degree at Lehigh University.
 | Aug. 2021                                                       | Start to pursue my Master's degree at Lehigh University.
-| May. 2021                                                       | Successfully defended my Bachelor thesis.
+| May. 2021                                                       | Successfully defended my Bachelor's thesis.
 | Jul. 2020                                                       | Started internship at Chinese Academy of Medical Sciences.                                                                       |
 
 
