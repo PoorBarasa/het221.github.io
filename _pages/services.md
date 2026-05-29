@@ -3,9 +3,15 @@ title: "Services and Award"
 permalink: /Services/
 author_profile: true
 ---
-### Reviewer
+### Professional (External) Service
 
-* IEEE International Conference on Robotics & Automation (ICRA), 2024 - 2026.
+>Program Committee Memberships
+
+*ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2025
+
+>Peer Reviewers
+
+* IEEE International Conference on Robotics & Automation (ICRA), 2024 - 2026
 * ACM Conference on Human Factors in Computing Systems (CHI), 2026
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
 
